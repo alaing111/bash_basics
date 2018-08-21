@@ -54,7 +54,7 @@ rmdir folder
 
 # write a line of text to standard output 
 # the file descriptor for standard output (stdout) is 1
-echo "Hello World" 
+echo "Hello World. My name is Alain" 
 
 # print without a new line
 echo -n "Hello World"
